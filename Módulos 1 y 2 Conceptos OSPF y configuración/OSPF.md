@@ -29,6 +29,4 @@ descripción del Camino más Corto Primero (OSPF), que incluye un área única y
 Estos paquetes se usan para descubrir routers vecinos y también para intercambiar información de enrutamiento, a fin de mantener información precisa acerca de la red.|
 
 
-```
-html
-```
+
